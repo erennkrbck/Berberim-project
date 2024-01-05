@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Berberim", "WinFormsApp1\Berberim.csproj", "{0F2544B9-6A52-4B02-8A14-DC0E178003BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F2544B9-6A52-4B02-8A14-DC0E178003BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F2544B9-6A52-4B02-8A14-DC0E178003BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F2544B9-6A52-4B02-8A14-DC0E178003BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F2544B9-6A52-4B02-8A14-DC0E178003BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B69AA093-390A-4F67-9DC9-08247EFB04CC}
+	EndGlobalSection
+EndGlobal
